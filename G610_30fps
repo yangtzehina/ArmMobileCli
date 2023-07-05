@@ -1,0 +1,6 @@
+--build-name=8.2
+--build-timestamp=3rd March 2021
+--application-name=第一次游玩
+--force-cycles
+--cpu-cycles-budget=66000000
+--gpu-cycles-budget=10000000
